@@ -1,7 +1,6 @@
 from random import randint, choice
 from math import log, ceil
 from functools import reduce
-#from runner import user_in
 
 class Character:
     '''Define an overarching class containing methods used by hero and enemy characters'''
