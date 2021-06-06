@@ -16,3 +16,5 @@ The game will parse standard commands in a few basic formats. Enter "help" at an
 - [ ] Add disadvantages based on affinity, potentially including:
   - [ ] Disadvantage when facing an enemy or weapon with opposing affinity
   - [ ] Disadvantage when attempting to use an item with opposing affinity
+- [ ] Add persistent memory, so a user can quit and save.
+- [ ] Add user/player selection: have multiple hero characters and allow user to select existing or start new on program start.
